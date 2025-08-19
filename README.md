@@ -1,5 +1,3 @@
-# DTDC-EDA-Project
-
 # 📦 DTDC Shipment Data Analysis: Optimizing Logistics & Revenue
 
 ## 📖 Project Overview
